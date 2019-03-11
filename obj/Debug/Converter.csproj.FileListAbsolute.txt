@@ -1,0 +1,25 @@
+C:\Users\Виталий\source\repos\Converter\Converter\bin\Debug\Converter.exe.config
+C:\Users\Виталий\source\repos\Converter\Converter\bin\Debug\Converter.exe
+C:\Users\Виталий\source\repos\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\Виталий\source\repos\Converter\Converter\obj\Debug\Converter.Form1.resources
+C:\Users\Виталий\source\repos\Converter\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\Виталий\source\repos\Converter\Converter\obj\Debug\Converter.csproj.GenerateResource.Cache
+C:\Users\Виталий\source\repos\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\Converter\Converter\obj\Debug\Converter.exe
+C:\Users\Виталий\source\repos\Converter\Converter\obj\Debug\Converter.pdb
+C:\Users\Виталий\source\repos\Converter\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\source\repos\Converter\Converter\obj\Debug\Converter.Management.resources
+C:\Users\Виталий\source\repos\Converter\Converter\obj\Debug\Converter.Calculator.resources
+D:\Disc C\Users\source\repos\Converter\Converter\bin\Debug\Converter.exe.config
+D:\Disc C\Users\source\repos\Converter\Converter\bin\Debug\Converter.exe
+D:\Disc C\Users\source\repos\Converter\Converter\bin\Debug\Converter.pdb
+D:\Disc C\Users\source\repos\Converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+D:\Disc C\Users\source\repos\Converter\Converter\obj\Debug\Converter.Calculator.resources
+D:\Disc C\Users\source\repos\Converter\Converter\obj\Debug\Converter.Form1.resources
+D:\Disc C\Users\source\repos\Converter\Converter\obj\Debug\Converter.Management.resources
+D:\Disc C\Users\source\repos\Converter\Converter\obj\Debug\Converter.Menu.resources
+D:\Disc C\Users\source\repos\Converter\Converter\obj\Debug\Converter.Properties.Resources.resources
+D:\Disc C\Users\source\repos\Converter\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+D:\Disc C\Users\source\repos\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+D:\Disc C\Users\source\repos\Converter\Converter\obj\Debug\Converter.exe
+D:\Disc C\Users\source\repos\Converter\Converter\obj\Debug\Converter.pdb
